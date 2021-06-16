@@ -3,8 +3,8 @@
 Routing Protocols
 =================
 
-Similar to the mobility models, routing protocols running at each node
-resides whether to forward the packet to another node during a contact.
+Similar to the mobility models, the DTN routing protocol running at each
+node decides whether to forward the packet to another node during a contact.
 
 The routing protocols integrated with UDTNSim include
 
